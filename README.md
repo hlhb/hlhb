@@ -1,4 +1,4 @@
-![background](/images/background.JPG)
+![background](background.JPG)
 
 #### about
 17-year old software developer, backend systems & infrastructure. building scalable services, developer tooling, and exploring distributed systems.
